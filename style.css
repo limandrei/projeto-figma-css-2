@@ -112,7 +112,6 @@ p {
     }
 
     .logo {
-        width: 100%;
         display: flex;
         justify-content: center;
     }
@@ -124,7 +123,7 @@ p {
         margin-top: 490px;
         margin-bottom: 22px;
         margin-left: 39px;
-        margin-right: 39px;
+        margin-right: 39px;  
     }
 
     h1 {
