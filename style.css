@@ -119,6 +119,7 @@ p {
     .image {
         width: 312px;
         height: 288px;
+        position: absolute;
         margin-top: 490px;
         margin-bottom: 22px;
         margin-left: auto;;
