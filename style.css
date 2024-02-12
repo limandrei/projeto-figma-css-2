@@ -119,11 +119,11 @@ p {
     .image {
         width: 312px;
         height: 288px;
-        position: fixed;
+        position: absolute;
         margin-top: 490px;
         margin-bottom: 22px;
-        margin-left: 39px;
-        margin-right: 39px;  
+        margin-left: auto;;
+        margin-right: auto;  
     }
 
     h1 {
